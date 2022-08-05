@@ -1,13 +1,3 @@
-const a = 5;
-const b = 2;
-let me = "yanggang";
-
-console.log(a + b);
-console.log(a * b);
-console.log(a / b);
-console.log(a - b);
-console.log("hello " + me);
-
-me = "nyanggang";
-
-console.log("My name is " + me);
+const amIPig = null;
+let something;
+console.log(something, amIPig);
