@@ -5,4 +5,5 @@ const me = "yanggang";
 console.log(a + b);
 console.log(a * b);
 console.log(a / b);
+console.log(a - b);
 console.log("hello " + me);
